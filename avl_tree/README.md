@@ -4,13 +4,13 @@
 
 **目录 (Table of Contents)**
 
-*AVL树的节点元素
+* AVL树的节点元素
 
-*AVL树中函数的作用
+* AVL树中函数的作用
 
-*AVL旋转的原理图示链接
+* AVL旋转的原理图示链接
 
-###AVL树的节点元素
+### AVL树的节点元素
 
     public:
         int  key;  //节点的键值
@@ -43,8 +43,8 @@
     //测试函数
 	
 
-###AVL旋转的原理图示链接
+### AVL旋转的原理图示链接
 
-https://www.cnblogs.com/skywang12345/p/3576969.html
+* 网址(https://www.cnblogs.com/skywang12345/p/3576969.html)
 
 ### End
