@@ -1,4 +1,4 @@
-##AVL树的插入和删除操作
+## AVL树的基本定义和操作
 
 *曦剑创建于2017年11月28日*
 
@@ -45,6 +45,6 @@
 
 ### AVL旋转的原理图示链接
 
-* 网址(https://www.cnblogs.com/skywang12345/p/3576969.html)
+[网址](https://www.cnblogs.com/skywang12345/p/3576969.html)
 
 ### End
