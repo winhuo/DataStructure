@@ -1,20 +1,21 @@
 ##AVL树的插入和删除操作
+
 *曦剑创建于2017年11月28日*
 
 **目录 (Table of Contents)**
 
 [TOCM]
 
-
 ###AVL树的节点元素
+
     public:
         int  key;  //节点的键值
         int  height;  //节点的高度
         AvlTreeNode *rightChild;   //指向右孩子的指针
         AvlTreeNode *leftChild;     //指向左孩子的指针
 ### AVL树中函数的作用
-*下列注释中所指的树是以传入参数作为根节点的树*
 
+*下列注释中所指的树是以传入参数作为根节点的树*
 
     int height(AvlTreeNode *n)
     //获取树的高度；
@@ -37,10 +38,9 @@
     void test()
     //测试函数
 	
-	
-	###
 
 ###AVL旋转的原理图示链接
+
 https://www.cnblogs.com/skywang12345/p/3576969.html
 
 ### End
